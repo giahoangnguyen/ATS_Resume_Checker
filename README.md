@@ -1,4 +1,4 @@
-# ATS_Resume_Checker
+# ATS Resume Checker
 ## Getting Started
 
 ### Prerequisites 
