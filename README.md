@@ -1,4 +1,4 @@
-# API CV Matching Project
+# ATS_Resume_Checker
 ## Getting Started
 
 ### Prerequisites 
@@ -43,4 +43,3 @@ $env:OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxx"
 
 ### Run the service
 uvicorn match:app --reload --host 0.0.0.0 --port 8000
-# ATS_Resume_Checker
