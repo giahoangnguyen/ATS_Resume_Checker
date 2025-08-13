@@ -5,7 +5,7 @@
 Before you begin, make sure you have the following installed:
 - **Python 3.10+ installed** 
 - **Git installed** 
-- **a(Optional) Windows users: Git Bash or WSL recommended** 
+- **(Optional) Windows users: Git Bash or WSL recommended** 
 -  **A valid OpenAI API key** 
 
 ### Clone the repo
