@@ -3,11 +3,10 @@
 
 ### Prerequisites 
 Before you begin, make sure you have the following installed:
-
-Python 3.10+ installed
-Git installed
-(Optional) Windows users: Git Bash or WSL recommended
-A valid OpenAI API key
+- **Python 3.10+ installed** 
+- **Git installed** 
+- **a(Optional) Windows users: Git Bash or WSL recommended** 
+-  **A valid OpenAI API key** 
 
 ### Clone the repo
 ```bash
@@ -56,6 +55,14 @@ $env:OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxx"
 cd src/backend
 uvicorn match:app --reload --host 0.0.0.0 --port 8000
 ```
+
+### For frontend
+```bash
+cd src/frontend/resume-matching-ui
+npm start
+```
+
+
 
 ### For frontend
 ```bash
