@@ -58,6 +58,6 @@ uvicorn match:app --reload --host 0.0.0.0 --port 8000
 
 ### For frontend
 ```bash
-cd src/frontend/resume-matching-ui
+cd src/frontend/resumeMatching
 npm start
 ```
